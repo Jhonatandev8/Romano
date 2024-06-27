@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.sourcelink.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\bin\Debug\net8.0\Romanos_para_Inteiros.exe
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\bin\Debug\net8.0\Romanos_para_Inteiros.deps.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\bin\Debug\net8.0\Romanos_para_Inteiros.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\bin\Debug\net8.0\Romanos_para_Inteiros.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\bin\Debug\net8.0\Romanos_para_Inteiros.pdb
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\refint\Romanos_para_Inteiros.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.pdb
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\Romanos_para_Inteiros.genruntimeconfig.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\Romanos_para_Inteiros\obj\Debug\net8.0\ref\Romanos_para_Inteiros.dll
